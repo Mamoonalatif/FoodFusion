@@ -2,8 +2,6 @@
 
 A modern, responsive food recipe website built with HTML5 and CSS3, featuring delicious recipes and an elegant user interface.
 
-![Food Fusion Website](./logo.png)
-
 ## 📋 Table of Contents
 - [Features](#features)
 - [Demo](#demo)
@@ -78,10 +76,7 @@ FoodFusion/
 ## 📱 Screenshots
 
 ### Desktop View
-![Desktop Screenshot](./screenshot-desktop.png) *(Add screenshot)*
-
-### Mobile View
-![Mobile Screenshot](./screenshot-mobile.png) *(Add screenshot)*
+![image](https://github.com/user-attachments/assets/e45e93fb-660d-40e0-88ed-4451cb2a4021)
 
 ## 🎨 Design Features
 
