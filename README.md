@@ -4,14 +4,12 @@ A modern, responsive food recipe website built with HTML5 and CSS3, featuring de
 
 ## 📋 Table of Contents
 - [Features](#features)
-- [Demo](#demo)
 - [Technologies Used](#technologies-used)
 - [Project Structure](#project-structure)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Screenshots](#screenshots)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## ✨ Features
@@ -24,10 +22,6 @@ A modern, responsive food recipe website built with HTML5 and CSS3, featuring de
   - Quick Recipes (Spicy Chicken Karahi)
   - Today's Special (Creamy Butter Chicken)
   - Sweet Treats (Chocolate Lava Cake)
-
-## 🚀 Demo
-
-Visit the live website: [Food Fusion Website](#) *(Add your deployed URL here)*
 
 ## 🛠️ Technologies Used
 
